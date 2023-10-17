@@ -7749,7 +7749,8 @@ header {
           text-transform: uppercase;
           letter-spacing: 10px;
           display: inline-block;
-          position: relative; }
+          position: relative; 
+          z-index: -1; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
               font-size: 40px; } }
